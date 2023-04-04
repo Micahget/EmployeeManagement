@@ -1,0 +1,9 @@
+// igonere build folder 
+build/
+nbproject/
+test/
+employee.sql
+build.xml
+conf/
+META-INF/
+WEB-INF/
